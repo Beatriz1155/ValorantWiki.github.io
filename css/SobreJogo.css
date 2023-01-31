@@ -85,14 +85,14 @@ main{
     padding-left: 51px;
     font-size: 398%;
     font-family: Tungsten-Bold,arial,georgia,sans-serif;
-
+    color: white;
 }
 .TextoSJogo{
     padding-top: 4%;
     padding-left: 54px;
     font-size: 138%;
     width: 31%;
-
+    color: white;
 }
 .Container{
     display: flex;
