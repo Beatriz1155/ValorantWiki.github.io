@@ -70,18 +70,14 @@ main{
     color: white;
     padding-left: 93%;
 }
-.NameLogo{
-    float: right;
-    padding-right: 85%;
-    padding-top: 8px;
-    color: white;
-}
 .Img{
     display: flex;
     overflow: hidden;
 }
 .container {
     display: flex;
+    width: 100%;
+    height: 100%;
 }
 .container p {
     position: absolute;
