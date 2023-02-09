@@ -15,14 +15,8 @@ main{
     width: 100%;
 }
 .logo{
-    width: 71%;
+    width: 5%;
     float: left;
-}
-.NameLogo{
-    float: right;
-    padding-right: 86%;
-    padding-top: 8px;
-    color: white;
 }
 .Menu{
     font-family: 'Source Serif Pro', sans-serif ;
