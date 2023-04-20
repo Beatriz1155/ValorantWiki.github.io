@@ -64,12 +64,6 @@ main{
     width: 5%;
     float: left;
 }
-.Nome{
-    width: 7%;
-    padding-top: 1.2%;
-    color: white;
-    padding-left: 93%;
-}
 .Img{
     display: flex;
     overflow: hidden;
@@ -85,10 +79,4 @@ main{
     right: 25%;
     font-size: 315%;
     color: white;
-}
-.data{
-    width: 4%;
-    padding-top: 1.2%;
-    color: white;
-    padding-left: 50%;
 }
